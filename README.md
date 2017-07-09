@@ -1,3 +1,4 @@
 # best-repo-ever
 
-This what what is the greatest readme.  Hope you read it!
+This is the greatest readme.  Hope you read it!
+Line 04 is stunning
